@@ -1,6 +1,6 @@
 # AR QR Scanner
 
-![AppIcon]()
+![AppIcon](https://user-images.githubusercontent.com/66309582/170818164-78551d05-b19f-4422-91b6-386d7194f3ea.png)
 
 A minimal iOS AR(Augmented Reality) app that scans QR code in AR scene.
 
@@ -30,8 +30,8 @@ you can add a QR code tracking function with a small code change.
 This project is a minimal implementation.
 Please modify it and make your own AR app!
 
-![Image]()
-![GIF]()
+![Image](https://user-images.githubusercontent.com/66309582/170818376-cbc27c3a-ebb5-4bc6-a2db-2dc0c2b147e0.jpeg)
+![GIF](https://user-images.githubusercontent.com/66309582/170818491-65dc989c-f590-408c-a831-a0e90083bf94.gif)
 
 ## References
 
